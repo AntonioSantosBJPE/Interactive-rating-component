@@ -1,0 +1,58 @@
+.container{
+width: 100vw;
+height: 100vh;
+
+}
+
+.main{
+    width: 350px;
+    height: 320px;
+    border-radius: 20px;
+    padding: 25px;
+    background-color: var(--color-grey-2);
+    justify-content: space-between;
+}
+
+.img-star{
+    width: 35px;
+    height: 35px;
+    background-color: var(--color-grey-3);
+    padding: 10px;
+    border-radius: 100px;
+}
+
+.box-btns{
+    justify-content: space-between;
+}
+
+
+
+.text{
+    font-weight: 400;
+    font-size: 15px;
+    
+}
+
+/* ============================================================ */
+
+.imgTy{
+    width: 150px;
+    height: 100px;
+}
+
+.msg-select{
+    width: 200px;
+    color: var(--color-brand-1);
+    font-size: 14px;
+    font-weight: 400;
+    background-color: var(--color-grey-3);
+    border-radius: 20px;
+    text-align: center;
+    padding: 8px;
+}
+
+.text-ty{
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center; 
+}
